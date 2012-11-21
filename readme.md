@@ -1,2 +1,3 @@
-*** S-99: Ninety-Nine Scala Problems ***
+S-99: Ninety-Nine Scala Problems
+================================
 
